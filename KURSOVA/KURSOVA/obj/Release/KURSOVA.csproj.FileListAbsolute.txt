@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\bin\Release\KURSOVA.exe.config
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\bin\Release\KURSOVA.exe
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\bin\Release\KURSOVA.pdb
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\obj\Release\KURSOVA.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\obj\Release\KURSOVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\obj\Release\KURSOVA.Form1.resources
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\obj\Release\KURSOVA.Properties.Resources.resources
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\obj\Release\KURSOVA.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\obj\Release\KURSOVA.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\obj\Release\KURSOVA.exe
+C:\Users\Acer\source\repos\KURSOVA\KURSOVA\obj\Release\KURSOVA.pdb
