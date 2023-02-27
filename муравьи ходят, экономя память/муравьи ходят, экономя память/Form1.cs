@@ -35,16 +35,6 @@ namespace муравьи_ходят__экономя_память
             timer1.Enabled = true;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         public void AntPaint()
         {
             for (int i = 0; i < ants.Count(); i++)
