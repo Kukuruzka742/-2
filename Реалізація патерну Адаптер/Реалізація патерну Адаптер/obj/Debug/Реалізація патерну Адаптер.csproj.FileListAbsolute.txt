@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\bin\Debug\Реалізація патерну Адаптер.exe.config
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\bin\Debug\Реалізація патерну Адаптер.exe
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\bin\Debug\Реалізація патерну Адаптер.pdb
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\obj\Debug\Реалізація патерну Адаптер.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\obj\Debug\Реалізація патерну Адаптер.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\obj\Debug\Реалізація_патерну_Адаптер.Form1.resources
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\obj\Debug\Реалізація_патерну_Адаптер.Properties.Resources.resources
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\obj\Debug\Реалізація патерну Адаптер.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\obj\Debug\Реалізація патерну Адаптер.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\obj\Debug\Реалізація патерну Адаптер.exe
+C:\Users\Acer\source\repos\Реалізація патерну Адаптер\Реалізація патерну Адаптер\obj\Debug\Реалізація патерну Адаптер.pdb
