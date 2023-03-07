@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\obj\Debug\Реалізація патерну Декоратор.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\obj\Debug\Реалізація патерну Декоратор.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\obj\Debug\Реалізація патерну Декоратор.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\bin\Debug\Реалізація патерну Декоратор.exe.config
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\bin\Debug\Реалізація патерну Декоратор.exe
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\bin\Debug\Реалізація патерну Декоратор.pdb
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\obj\Debug\Реалізація патерну Декоратор.exe
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\obj\Debug\Реалізація патерну Декоратор.pdb
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\obj\Debug\Реалізація_патерну_Декоратор.Form1.resources
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\obj\Debug\Реалізація патерну Декоратор.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Acer\source\repos\Реалізація патерну Декоратор\Реалізація патерну Декоратор\obj\Debug\Реалізація патерну Декоратор.csproj.CopyComplete
