@@ -6,44 +6,45 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using static Реалізація_патерну_Декоратор.Program;
 
 namespace Реалізація_патерну_Декоратор
 {
 
     internal class Program
     {
-        public abstract class ArrayDecorator<T>
+        public abstract class ArrayDecorator<T> : MyArray<T>
         {
-            protected T[] mass;
-            public ArrayDecorator(T[] mass)
-            { 
-                this.mass = mass;
+            protected MyArray<T> arr;
+            public ArrayDecorator(MyArray<T> arr) : base(arr.Length)
+            {
+                this.arr = arr;
             }
             public abstract void Print();
         }
 
         public class ConsolArray<T> : ArrayDecorator<T>
         {
-            public ConsolArray(T[] mass) : base(mass) {  }
+            public ConsolArray(MyArray<T> arr) : base(arr) { }
             public override void Print()
             {
-                foreach (T t in mass)
+                for (int i = 0; i < arr.Length; i++)
                 {
-                    Console.Write(t + " ");
+                    Console.Write(arr[i] + " ");
                 }
             }
         }
 
         public class VisualArray<T> : ArrayDecorator<T>
         {
-            public VisualArray(T[] mass) : base(mass) { }
+            public VisualArray(MyArray<T> arr) : base(arr) { }
             public override void Print()
             {
                 Form1 f1 = new Form1();
-                
-                foreach (T t in mass)
+
+                for (int i = 0; i < arr.Length; i++)
                 {
-                    f1.textBox1.Text += t + " ";
+                    f1.textBox1.Text += arr[i].ToString() + " ";
                 }
                 f1.textBox1.ReadOnly = true;
                 f1.ShowDialog();
@@ -54,11 +55,10 @@ namespace Реалізація_патерну_Декоратор
         {
             Console.Write("Введите размер массива: ");
             int SIZE = (Convert.ToInt32(Console.ReadLine()));
-            int[] mass = Enumerable.Range(0, SIZE).ToArray();
-
-            ArrayDecorator<int> ca = new ConsolArray<int>(mass);
+            MyArray<int> myArray = new MyArray<int>(SIZE);
+            ArrayDecorator<int> ca = new ConsolArray<int>(myArray);
             ca.Print();
-            ca = new VisualArray<int>(mass);
+            ca = new VisualArray<int>(ca);
             ca.Print();
             Console.ReadLine();
         }
