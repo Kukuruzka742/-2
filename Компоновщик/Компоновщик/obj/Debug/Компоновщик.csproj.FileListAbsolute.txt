@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\bin\Debug\Компоновщик.exe.config
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\bin\Debug\Компоновщик.exe
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\bin\Debug\Компоновщик.pdb
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\obj\Debug\Компоновщик.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\obj\Debug\Компоновщик.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\obj\Debug\Компоновщик.Form1.resources
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\obj\Debug\Компоновщик.Properties.Resources.resources
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\obj\Debug\Компоновщик.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\obj\Debug\Компоновщик.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\obj\Debug\Компоновщик.exe
+C:\Users\Acer\source\repos\Компоновщик\Компоновщик\obj\Debug\Компоновщик.pdb
