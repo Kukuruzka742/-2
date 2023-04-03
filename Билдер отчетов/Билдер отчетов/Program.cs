@@ -15,7 +15,7 @@ namespace Билдер_отчетов
             Console.OutputEncoding = UTF8Encoding.UTF8;
 
             ReportDirector director = new ReportDirector(new TextReportBuilder());
-            HTMLReportDirector htmldirector = new HTMLReportDirector(new HTMLReportBuilder());
+            ReportDirector htmldirector = new ReportDirector(new HTMLReportBuilder());
 
             //------------------------------------------------------------------------
 

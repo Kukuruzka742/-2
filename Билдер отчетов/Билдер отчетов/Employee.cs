@@ -69,34 +69,11 @@ namespace Билдер_отчетов
         }
     }
 
-    // директор, який складає звіти з відповідною послідовністю етапів
     class ReportDirector
     {
         private IReportBuilder _builder;
 
         public ReportDirector(IReportBuilder builder)
-        {
-            _builder = builder;
-        }
-
-        public void ConstructReport(string header, string body, string footer)
-        {
-            _builder.SetHeader(header);
-            _builder.SetBody(body);
-            _builder.SetFooter(footer);
-        }
-
-        public string GetReport()
-        {
-            return _builder.GetReport();
-        }
-    }
-
-    class HTMLReportDirector
-    {
-        private IReportBuilder _builder;
-
-        public HTMLReportDirector(IReportBuilder builder)
         {
             _builder = builder;
         }
