@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\синглтон\синглтон\bin\Debug\синглтон.exe.config
+C:\Users\Acer\source\repos\синглтон\синглтон\bin\Debug\синглтон.exe
+C:\Users\Acer\source\repos\синглтон\синглтон\bin\Debug\синглтон.pdb
+C:\Users\Acer\source\repos\синглтон\синглтон\obj\Debug\синглтон.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\синглтон\синглтон\obj\Debug\синглтон.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\синглтон\синглтон\obj\Debug\синглтон.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\синглтон\синглтон\obj\Debug\синглтон.exe
+C:\Users\Acer\source\repos\синглтон\синглтон\obj\Debug\синглтон.pdb
