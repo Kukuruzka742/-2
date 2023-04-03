@@ -1,9 +1,10 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 using System.Text;
 
 namespace Билдер_отчетов
 {
-    // інтерфейс будівельника звіту
+
     interface IReportBuilder
     {
         void SetHeader(string header);
@@ -11,8 +12,8 @@ namespace Билдер_отчетов
         void SetFooter(string footer);
         string GetReport();
     }
+    [Serializable]
 
-    // конкретний будівельник звіту у вигляді текстового документу
     class TextReportBuilder : IReportBuilder
     {
         private string _report;
@@ -37,7 +38,7 @@ namespace Билдер_отчетов
             return _report;
         }
     }
-
+    [Serializable]
     class HTMLReportBuilder : IReportBuilder
     {
         private string _report;
@@ -68,8 +69,8 @@ namespace Билдер_отчетов
             return _report;
         }
     }
-
-    class ReportDirector
+    [Serializable]
+    class ReportDirector 
     {
         private IReportBuilder _builder;
 
@@ -85,9 +86,15 @@ namespace Билдер_отчетов
             _builder.SetFooter(footer);
         }
 
-        public string GetReport()
+        public override string ToString()
         {
             return _builder.GetReport();
+        }
+
+        public ReportDirector Clone()
+        {
+            IReportBuilder newBuilder = (IReportBuilder)this._builder.GetType().GetConstructor(new Type[0]).Invoke(null);
+            return new ReportDirector(newBuilder);
         }
     }
 }
