@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\Прокси\Прокси\bin\Debug\Прокси.exe.config
+C:\Users\Acer\source\repos\Прокси\Прокси\bin\Debug\Прокси.exe
+C:\Users\Acer\source\repos\Прокси\Прокси\bin\Debug\Прокси.pdb
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.Form1.resources
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.Properties.Resources.resources
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.exe
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.pdb
+C:\Users\Acer\source\repos\Прокси\Прокси\obj\Debug\Прокси.Form2.resources
